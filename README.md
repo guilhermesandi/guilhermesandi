@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 My name is Guilherme, i am a developer passionate about learning new technologies and developing amazing applications.
 
 <p align="left">
