@@ -2,7 +2,7 @@
 
 ### My name is Guilherme, i am a developer passionate about learning new technologies and developing amazing applications 🚀
 
-## Activity
+## 💻 Activity
 [![card](https://github-readme-stats.vercel.app/api?username=guilhermesandi&theme=default)](https://github.com/guilhermesandi/)
 
 [![guilhermesandi](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
