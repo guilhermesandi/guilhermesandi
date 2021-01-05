@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Guilherme, i am a developer passionate about learning new technologies and developing amazing applications 🚀
+> My name is Guilherme, i am a developer passionate about learning new technologies and developing amazing applications
 
 <p align="left">
   <a href="#" alt="Linkedin">
